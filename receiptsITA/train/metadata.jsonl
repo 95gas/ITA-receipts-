@@ -21,7 +21,7 @@
 {"file_name": "22.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"FARMACIA IS BOINARGIUS\", \"date\": \"22-10-18\", \"address\": \"VIALE G. DI VITTORIO N.214 09036 - GUSPINI (SU)\", \"total\": \"1.00\"}}"}
 {"file_name": "23.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"FARMACIA DEL CUORICINO SNC\", \"date\": \"01-03-18\", \"address\": \"VIA GRAMSCI,103 21010 - CARDANO AL CAMPO (VA)\", \"total\": \"16.75\"}}"}
 {"file_name": "25.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"FARMACIA COMUNALE PONTASSIEVE\", \"date\": \"10-12-2021\", \"address\": \"PIAZZA DEL VIVO 26 PONTASSIEVE - FIRENZE\", \"total\": \"10.00\"}}"}
-{"file_name": "29.png", "ground_truth": "{\"gt_parse\": {\"company\": \"HAYASHI\", \"date\": \"09-08-17\", \"address\": \"VIA GUSTAVO FARA 4 - 20124 MILANO\", \"total\": \"8.00\"}}"}
+{"file_name": "29.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"HAYASHI\", \"date\": \"09-08-17\", \"address\": \"VIA GUSTAVO FARA 4 - 20124 MILANO\", \"total\": \"8.00\"}}"}
 {"file_name": "31.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"SALUMERIA PIERINO GILARDI\", \"date\": \"29-03-2021\", \"address\": \"VIA MERCALLI 2 20122 MILANO\", \"total\": \"60.00\"}}"}
 {"file_name": "33.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PANIFICIO PASTICCERIA\", \"date\": \"14/04/22\", \"address\": \"VIA MAZZINI 14 - RAPALLO (GE)\", \"total\": \"2.90\"}}"}
 {"file_name": "34.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PANIFICIO PASTICCERIA\", \"date\": \"29/07/21\", \"address\": \"VIA MAZZINI 14 - RAPALLO (GE)\", \"total\": \"2.60\"}}"}
