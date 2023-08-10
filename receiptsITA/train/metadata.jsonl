@@ -21,7 +21,7 @@
 {"file_name": "22.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"FARMACIA IS BOINARGIUS\", \"date\": \"22-10-18\", \"address\": \"VIALE G. DI VITTORIO N.214 09036 - GUSPINI (SU)\", \"total\": \"1.00\"}}"}
 {"file_name": "23.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"FARMACIA DEL CUORICINO SNC\", \"date\": \"01-03-18\", \"address\": \"VIA GRAMSCI,103 21010 - CARDANO AL CAMPO (VA)\", \"total\": \"16.75\"}}"}
 {"file_name": "25.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"FARMACIA COMUNALE PONTASSIEVE\", \"date\": \"10-12-2021\", \"address\": \"PIAZZA DEL VIVO 26 PONTASSIEVE - FIRENZE\", \"total\": \"10.00\"}}"}
-{"file_name": "29.png", "ground_truth": "{\"gt_parse\": {\"company\": \"HAYASHI\", \"date\": \"09-08-17\", \"address\": \"VIA GUSTAVO FARA 4 - 20124 MILANO\", \"total\": \"8.00\"}}"}
+{"file_name": "29.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"HAYASHI\", \"date\": \"09-08-17\", \"address\": \"VIA GUSTAVO FARA 4 - 20124 MILANO\", \"total\": \"8.00\"}}"}
 {"file_name": "31.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"SALUMERIA PIERINO GILARDI\", \"date\": \"29-03-2021\", \"address\": \"VIA MERCALLI 2 20122 MILANO\", \"total\": \"60.00\"}}"}
 {"file_name": "33.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PANIFICIO PASTICCERIA\", \"date\": \"14/04/22\", \"address\": \"VIA MAZZINI 14 - RAPALLO (GE)\", \"total\": \"2.90\"}}"}
 {"file_name": "34.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PANIFICIO PASTICCERIA\", \"date\": \"29/07/21\", \"address\": \"VIA MAZZINI 14 - RAPALLO (GE)\", \"total\": \"2.60\"}}"}
@@ -35,7 +35,7 @@
 {"file_name": "42.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ZOPPI & GALLOTTI MACELLERIA\", \"date\": \"07.02.2020\", \"address\": \"VIA C. BATTISTI 2 MILANO\", \"total\": \"14.82\"}}"}
 {"file_name": "43.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAR CAFFE' TAVOLA FREDDA\", \"date\": \"19-11-2018\", \"address\": \"VIA TIZIANO 5 MILANO\", \"total\": \"1.00\"}}"}
 {"file_name": "44.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LE COLLINE DI SORRENTO\", \"date\": \"20/07/19\", \"address\": \"VIA CASARLANO 10/B 80067 SORRENTO (NA)\", \"total\": \"27.00\"}}"}
-{"file_name": "46.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"OLIVETTI S.P.A.\", \"date\": \"27-04-2021\", \"address\": \"STRA MONTE NAVALE, 2/C\", \"total\": \"2.80\"}}"}
+{"file_name": "46.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"OLIVETTI S.P.A.\", \"date\": \"27-04-2021\", \"address\": \"STRA MONTE NAVALE, 2/C\", \"total\": \"2.80\"}}"}
 {"file_name": "50.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GRAN CAFFE' CIMMINO\", \"date\": \"03-03-2020\", \"address\": \"VIA LARGA 2 - 20122 MILANO\", \"total\": \"1.00\"}}"}
 {"file_name": "51.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"COFFEE SHOP ZANARDELLI\", \"date\": \"06-09-2020\", \"address\": \"CORSO GIUSEPPE ZANARDELLI 26 25121 BRESCIA\", \"total\": \"33.50\"}}"}
 {"file_name": "52.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE DANTE\", \"date\": \"04-07-2019\", \"address\": \"LOC. SOTTOVENTO 07021 - PORTO CERVO\", \"total\": \"40.50\"}}"}
@@ -119,7 +119,7 @@
 {"file_name": "141.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PIZZERIA GINO SORBILLO\", \"date\": \"30/06/2018\", \"address\": \"VIA TRIBUNALI 32\", \"total\": \"37.50\"}}"}
 {"file_name": "142.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.R.L.\", \"date\": \"08/08/2015\", \"address\": \"PIAZZA XXV APRILE 10 20121 MILANO (MI)\", \"total\": \"58.50\"}}"}
 {"file_name": "143.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MILANO LIEVITO MADRE S.R.L.\", \"date\": \"05/04/18\", \"address\": \"LARGO CORSIA DEI SERVI, 24 20122 MILANO\", \"total\": \"27.60\"}}"}
-{"file_name": "144.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LIEVITO MADRE\", \"date\": \"22-08-2013\", \"address\": \"VIA PARTENOPE,1 80121 - NAPOLI\", \"total\": \"94.53\"}}"}
+{"file_name": "144.png", "ground_truth": "{\"gt_parse\": {\"company\": \"LIEVITO MADRE\", \"date\": \"22-08-2013\", \"address\": \"VIA PARTENOPE,1 80121 - NAPOLI\", \"total\": \"94.53\"}}"}
 {"file_name": "145.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.U.R.L.\", \"date\": \"16/03/2018\", \"address\": \"P.LE XII OTTOBRE 1492 00100 ROMA (RM)\", \"total\": \"34.26\"}}"}
 {"file_name": "146.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.R.L.\", \"date\": \"28/08/2014\", \"address\": \"PIAZZA XXV APRILE, 10 20121 MILANO (MI)\", \"total\": \"12.50\"}}"}
 {"file_name": "147.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BULLO S.R.L.\", \"date\": \"29-11-2015\", \"address\": \"VIA PARTENOPE,8 80121 NAPOLI (NA)\", \"total\": \"23.58\"}}"}

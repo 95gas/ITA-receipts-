@@ -46,4 +46,4 @@
 {"file_name": "225.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ROSTICCERIA REVELANT SNC\", \"date\": \"31/12/19\", \"address\": \"VIA MAZZINI 7 16035 RAPALLO (GE)\", \"total\": \"44.14\"}}"}
 {"file_name": "226.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"VERONA ANTICA SAS\", \"date\": \"18/05/16\", \"address\": \"VIA SOTTORIVA 10 A VERONA\", \"total\": \"42.00\"}}"}
 {"file_name": "227.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IKEA ITALIA RETAIL S.R.L.\", \"date\": \"08/10/11\", \"address\": \"VIA E. BERLINGUER N. 2 AFRAGOLA\", \"total\": \"19.11\"}}"}
-{"file_name": "228.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MICRELEC ITALIA SRL\", \"date\": \"10-12-2009\", \"address\": \"VIA POZZONE,5 20121 MILANO\", \"total\": \"33.38\"}}"}
+{"file_name": "228.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"MICRELEC ITALIA SRL\", \"date\": \"10-12-2009\", \"address\": \"VIA POZZONE,5 20121 MILANO\", \"total\": \"33.38\"}}"}
