@@ -104,7 +104,7 @@
 {"file_name": "126.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"UNIEURO SRL\", \"date\": \"29-05-14\", \"address\": \"VIA GIUSTETTO, N 41 10064, PINEROLO (TO)\", \"total\": \"59.90\"}}"}
 {"file_name": "127.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE DANTE\", \"date\": \"04-07-2019\", \"address\": \"LOC. SOTTOVENTO 07021 - PORTO CERVO\", \"total\": \"40.50\"}}"}
 {"file_name": "128.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LAF ITALIA S.R.L.\", \"date\": \"25/01/2018\", \"address\": \"20123 MILANO - CORSO MAGENTA, 96 (ANG P.ZA BARACCA)\", \"total\": \"71.00\"}}"}
-{"file_name": "129.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"OSTERIA IL TONNO ROSSO\", \"date\": \"05-08-2015\", \"address\": \"LANZA ANDREA P.ZZA C. BATTISTI 2 POZZALLO (RG)\", \"total\": \"115.00\"}}"}
+{"file_name": "129.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"OSTERIA IL TONNO ROSSO\", \"date\": \"05-08-2015\", \"address\": \"LANZA ANDREA P.ZZA C. BATTISTI 2 POZZALLO (RG)\", \"total\": \"115.00\"}}"}
 {"file_name": "130.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PORTO DI MARE\", \"date\": \"01/11/16\", \"address\": \"VIALE ITALIA 89 57126 LIVORNO\", \"total\": \"33.00\"}}"}
 {"file_name": "131.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DU SCHEI\", \"date\": \"09/05/15\", \"address\": \"VIA INTERRATO ACQUA MORTA 66 37129 - VERONA\", \"total\": \"223.00\"}}"}
 {"file_name": "132.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"UNIEURO S.P.A.\", \"date\": \"30/06/2022\", \"address\": \"V.VANDALINO 101 10100 TORINO (TO)\", \"total\": \"49.99\"}}"}
