@@ -119,7 +119,7 @@
 {"file_name": "141.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PIZZERIA GINO SORBILLO\", \"date\": \"30/06/2018\", \"address\": \"VIA TRIBUNALI 32\", \"total\": \"37.50\"}}"}
 {"file_name": "142.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.R.L.\", \"date\": \"08/08/2015\", \"address\": \"PIAZZA XXV APRILE 10 20121 MILANO (MI)\", \"total\": \"58.50\"}}"}
 {"file_name": "143.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MILANO LIEVITO MADRE S.R.L.\", \"date\": \"05/04/18\", \"address\": \"LARGO CORSIA DEI SERVI, 24 20122 MILANO\", \"total\": \"27.60\"}}"}
-{"file_name": "144.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LIEVITO MADRE\", \"date\": \"22-08-2013\", \"address\": \"VIA PARTENOPE,1 80121 - NAPOLI\", \"total\": \"94.53\"}}"}
+{"file_name": "144.png", "ground_truth": "{\"gt_parse\": {\"company\": \"LIEVITO MADRE\", \"date\": \"22-08-2013\", \"address\": \"VIA PARTENOPE,1 80121 - NAPOLI\", \"total\": \"94.53\"}}"}
 {"file_name": "145.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.U.R.L.\", \"date\": \"16/03/2018\", \"address\": \"P.LE XII OTTOBRE 1492 00100 ROMA (RM)\", \"total\": \"34.26\"}}"}
 {"file_name": "146.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.R.L.\", \"date\": \"28/08/2014\", \"address\": \"PIAZZA XXV APRILE, 10 20121 MILANO (MI)\", \"total\": \"12.50\"}}"}
 {"file_name": "147.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BULLO S.R.L.\", \"date\": \"29-11-2015\", \"address\": \"VIA PARTENOPE,8 80121 NAPOLI (NA)\", \"total\": \"23.58\"}}"}
