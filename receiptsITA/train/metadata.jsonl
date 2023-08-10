@@ -35,7 +35,7 @@
 {"file_name": "42.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ZOPPI & GALLOTTI MACELLERIA\", \"date\": \"07.02.2020\", \"address\": \"VIA C. BATTISTI 2 MILANO\", \"total\": \"14.82\"}}"}
 {"file_name": "43.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAR CAFFE' TAVOLA FREDDA\", \"date\": \"19-11-2018\", \"address\": \"VIA TIZIANO 5 MILANO\", \"total\": \"1.00\"}}"}
 {"file_name": "44.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LE COLLINE DI SORRENTO\", \"date\": \"20/07/19\", \"address\": \"VIA CASARLANO 10/B 80067 SORRENTO (NA)\", \"total\": \"27.00\"}}"}
-{"file_name": "46.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"OLIVETTI S.P.A.\", \"date\": \"27-04-2021\", \"address\": \"STRA MONTE NAVALE, 2/C\", \"total\": \"2.80\"}}"}
+{"file_name": "46.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"OLIVETTI S.P.A.\", \"date\": \"27-04-2021\", \"address\": \"STRA MONTE NAVALE, 2/C\", \"total\": \"2.80\"}}"}
 {"file_name": "50.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GRAN CAFFE' CIMMINO\", \"date\": \"03-03-2020\", \"address\": \"VIA LARGA 2 - 20122 MILANO\", \"total\": \"1.00\"}}"}
 {"file_name": "51.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"COFFEE SHOP ZANARDELLI\", \"date\": \"06-09-2020\", \"address\": \"CORSO GIUSEPPE ZANARDELLI 26 25121 BRESCIA\", \"total\": \"33.50\"}}"}
 {"file_name": "52.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE DANTE\", \"date\": \"04-07-2019\", \"address\": \"LOC. SOTTOVENTO 07021 - PORTO CERVO\", \"total\": \"40.50\"}}"}
