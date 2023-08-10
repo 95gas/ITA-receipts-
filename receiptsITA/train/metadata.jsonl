@@ -79,7 +79,7 @@
 {"file_name": "97.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IL FORNAIO\", \"date\": \"29-10-2019\", \"address\": \"C.SO DI PORTA ROMANA 72 MILANO\", \"total\": \"23.25\"}}"}
 {"file_name": "98.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IL CAFFE DELLA TERRA\", \"date\": \"24-11-2019\", \"address\": \"CORSO DI PORTA ROMANA, 80 20122 MILANO (MI)\", \"total\": \"1.00\"}}"}
 {"file_name": "99.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MAVIT BAR S.R.L.\", \"date\": \"04/10/17\", \"address\": \"VIALE PIETRAMELLARA, 59/2 BOLOGNA\", \"total\": \"1.10\"}}"}
-{"file_name": "100.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IDEAL BAR DI PERRONE GIUSEPPE\", \"date\": \"25/08/13\", \"address\": \"VIA GARIBALDI 6 ALIA -PA-\", \"total\": \"0.20\"}}"}
+{"file_name": "100.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"IDEAL BAR DI PERRONE GIUSEPPE\", \"date\": \"25/08/13\", \"address\": \"VIA GARIBALDI 6 ALIA -PA-\", \"total\": \"0.20\"}}"}
 {"file_name": "101.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"AMERICAN COFFEE COMPANY S.P.A.\", \"date\": \"25/09/16\", \"address\": \"VIA DEGLI AVELLI 8 FIRENZE (FI)\", \"total\": \"19.70\"}}"}
 {"file_name": "103.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GARDALAND HOTEL RESORT\", \"date\": \"22-08-15\", \"address\": \"VIA PALU', 11 37014 CASTELNUOVO DEL GARDA (VR)\", \"total\": \"17.90\"}}"}
 {"file_name": "104.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PICCOLO HOTEL LA VALLE\", \"date\": \"27/08/2020\", \"address\": \"VIA DI CIRCONVALLAZIONE 7 53026 PIENZA - SI\", \"total\": \"521.00\"}}"}
