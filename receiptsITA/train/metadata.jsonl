@@ -116,7 +116,7 @@
 {"file_name": "138.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINNOVI S.R.L.\", \"date\": \"05/05/18\", \"address\": \"VIA NUOVA AGNANO N.1 NAPOLI\", \"total\": \"29.50\"}}"}
 {"file_name": "139.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAR BRASILE SRL\", \"date\": \"06/07/13\", \"address\": \"00187 ROMA PIAZZA VENEZIA 5/A\", \"total\": \"30.00\"}}"}
 {"file_name": "140.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DEDANS BAR\", \"date\": \"09-04-18\", \"address\": \"P.ZZA WAGNER, 3 20145 - MILANO\", \"total\": \"5.00\"}}"}
-{"file_name": "141.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PIZZERIA "GINO SORBILLO"\", \"date\": \"30/06/2018\", \"address\": \"VIA TRIBUNALI 32\", \"total\": \"37.50\"}}"}
+{"file_name": "141.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PIZZERIA GINO SORBILLO\", \"date\": \"30/06/2018\", \"address\": \"VIA TRIBUNALI 32\", \"total\": \"37.50\"}}"}
 {"file_name": "142.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"EATALY DISTRIBUZIONE S.R.L.\", \"date\": \"08/08/2015\", \"address\": \"PIAZZA XXV APRILE 10 20121 MILANO (MI)\", \"total\": \"58.50\"}}"}
 {"file_name": "143.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MILANO LIEVITO MADRE S.R.L.\", \"date\": \"05/04/18\", \"address\": \"LARGO CORSIA DEI SERVI, 24 20122 MILANO\", \"total\": \"27.60\"}}"}
 {"file_name": "144.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LIEVITO MADRE\", \"date\": \"22-08-2013\", \"address\": \"VIA PARTENOPE,1 80121 - NAPOLI\", \"total\": \"94.53\"}}"}
